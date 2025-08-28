@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "donut-world",
+	"id": "donut_world",
 	"version": "${version}",
 	"name": "Donut world",
 	"description": "This is an example description! Tell everyone what your mod is about!",
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/donut-world/icon.png",
+	"icon": "assets/donut_world/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -23,9 +23,9 @@
 		]
 	},
 	"mixins": [
-		"donut-world.mixins.json",
+		"donut_world.mixins.json",
 		{
-			"config": "donut-world.client.mixins.json",
+			"config": "donut_world.client.mixins.json",
 			"environment": "client"
 		}
 	],
@@ -38,5 +38,5 @@
 	"suggests": {
 		"another-mod": "*"
 	},
-	"accessWidener": "donut-world.accesswidener"
+	"accessWidener": "donut_world.accesswidener"
 }

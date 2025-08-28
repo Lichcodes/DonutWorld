@@ -22,13 +22,13 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"donut-world" {
+		"donut_world" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}
 	}
 
-	accessWidenerPath = file("src/main/resources/donut-world.accesswidener")
+	accessWidenerPath = file("src/main/resources/donut_world.accesswidener")
 
 }
 
