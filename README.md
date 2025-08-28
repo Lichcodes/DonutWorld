@@ -13,3 +13,8 @@ Minecraft: 1.21.4
 [Fabric loader](https://fabricmc.net): 0.17.2
 
 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all?page=1&pageSize=20&version=1.21.4): 0.119.4+1.21.4
+
+# Download
+Download the jar file here and put it in your `mods` folder.
+
+https://github.com/Lichcodes/DonutWorld/releases/latest
