@@ -1,0 +1,7 @@
+## Donut World 
+Works for Fabric and Minecraft version 1.21.4
+<img width="2560" height="1377" alt="2025-08-11_10 41 32-min" src="https://github.com/user-attachments/assets/4361e4c7-8fa0-4982-9fa6-57f9fbf78b8a" />
+
+## Playing the world
+To play the world just create a new world and select the "Donut islands" world type:
+<img width="2560" height="1377" alt="image" src="https://github.com/user-attachments/assets/51c63aee-7cbd-42a9-9570-bafc5ffbecf0" />
